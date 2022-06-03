@@ -1,0 +1,2 @@
+Django setup: https://realpython.com/django-setup/
+Practice characters are pulled from the most frequently appearing characters in movie/tv show subtitles: http://crr.ugent.be/programs-data/subtitle-frequencies/subtlex-ch
